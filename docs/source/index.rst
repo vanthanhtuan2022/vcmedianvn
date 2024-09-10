@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Top 10+ nhà cái uy tín nhất hiện nay tại Việt Nam 
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Nhà cái uy tín <https://vcmedian.vn/>`_ có giấy phép từ các tổ chức danh tiếng như Curacao, Isle of Man, và Malta, cung cấp hỗ trợ khách hàng 24/7 với nhiều ngôn ngữ. Đồng thời, nhà cái này còn mang đến các trò chơi đa dạng như cá cược thể thao, casino trực tuyến, xổ số, và keno
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 239/67/17B Đ. Đỗ Thị Lời, Phường 11, Quận 3, Hồ Chí Minh, Vietnam
 
-   This project is under active development.
+Phone: 0906887772
 
-Contents
---------
+Email: info@vcmedian.vn
 
-.. toctree::
+Website: https://vcmedian.vn/
 
-   usage
-   api
+#nhacaiuytin #nhacaiuytinchaua #nhacaiuytinvietnam #nhacaiuytin2024
